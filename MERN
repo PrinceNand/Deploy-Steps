@@ -1,0 +1,16 @@
+Full-Stack Application Deployment on VPS (Hostinger)
+React, Node.js, Express, MySQL
+
+Prerequisites:
+VPS (Ubuntu OS recommended)
+Domain Name (optional but recommended)
+SSH access to your VPS
+Git repository with your React, Node.js, and Express project
+Step-by-Step Guide:
+Step 1: SSH into Your VPS
+Access your VPS via SSH:
+Open a terminal on your local machine and run:
+bash
+Copy code
+ssh username@your-server-ip
+Replace username with your VPS username (often root) and your-server-ip with your VPS IP address.
